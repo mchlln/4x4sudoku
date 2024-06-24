@@ -19,10 +19,6 @@ Here, `0` represents an empty cell.
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
-   ```
 
 2. **Run the solver:**
 
